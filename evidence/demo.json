@@ -1,0 +1,27 @@
+{
+  "before": {
+    "sku": "KIT-100",
+    "quantity": 5,
+    "version": 1
+  },
+  "proposal": {
+    "proposal_id": "0b6d3d5fbd75440994ff03afa971ac42",
+    "payload": {
+      "sku": "KIT-100",
+      "quantity": 8,
+      "expected_version": 1
+    },
+    "digest": "8f94ee331ce2efdc5b4afa11cd89e38972b5dec5bc6f1c9d8e1cd585f912c245",
+    "state": "pending"
+  },
+  "receipt": {
+    "proposal_id": "0b6d3d5fbd75440994ff03afa971ac42",
+    "state": "applied",
+    "replayed": false
+  },
+  "after": {
+    "sku": "KIT-100",
+    "quantity": 8,
+    "version": 2
+  }
+}

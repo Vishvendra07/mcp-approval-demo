@@ -1,0 +1,7 @@
+{
+  "tests": 2,
+  "result": "passed",
+  "demo": "passed",
+  "local_stdio_protocol": "passed",
+  "proposals_do_not_write_catalog": true
+}
